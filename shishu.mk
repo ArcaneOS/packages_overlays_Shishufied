@@ -2,6 +2,7 @@
 # Color required overlays packages
 PRODUCT_PACKAGES += \
     AccentColorOneplusOverlay \
+    AccentColorPeachOverlay \
     iOSBlue \
     NotImpPurple \
     Holillusion \
